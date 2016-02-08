@@ -33,7 +33,6 @@
     "jshint": "^2.9.1",
     "jshint-jsx": "^0.4.1",
     "jshint-stylish": "^2.1.0",
-    "npm-check": "^4.1.4",
     "reactify": "^1.1.1",
     "vinyl-ftp": "^0.4.5",
     "vinyl-source-stream": "^1.1.0",
