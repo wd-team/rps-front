@@ -9,8 +9,7 @@
     "url": "https://git.itransition.com/scm/rps/rps.git"
   },
   "scripts": {
-    "generate-docs": "node_modules/.bin/esdoc -c esdoc.json",
-    "check-modules-version": "node_modules\\.bin\\npm-check"
+    "generate-docs": "node_modules/.bin/esdoc -c esdoc.json"
   },
   "devDependencies": {
     "babelify": "^6.4.0",
